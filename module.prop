@@ -1,0 +1,7 @@
+id=spoof-uname
+name=Standalone susfs spoof uname
+version=v1
+versionCode=100000
+author=sidex15 & utkustnr
+description=Spoof uname using simonpunk's susfs bin.
+updateJson=
